@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>1985-10-26T08:15:00.000Z</updated>
+  <updated>2022-02-17T15:46:45.201Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Intellij idea 快捷键</title>
+    <link href="http://example.com/2022/03/23/Intellij%20idea%20%E5%BF%AB%E6%8D%B7%E9%94%AE/"/>
+    <id>http://example.com/2022/03/23/Intellij%20idea%20%E5%BF%AB%E6%8D%B7%E9%94%AE/</id>
+    <published>2022-03-23T07:13:47.000Z</published>
+    <updated>2022-02-17T15:46:45.201Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Intellij-idea-快捷键"><a href="#Intellij-idea-快捷键" class="headerlink" title="Intellij idea 快捷键"></a>Intellij idea 快捷键</h1><span id="more"></span><ul><li><p>调用构造方法、setter方法等   ：    <strong>Alt + Ins</strong></p></li><li><p>调用 main 方法：<strong>main + 回车          或            pvsm + 回车</strong></p></li><li><p>注释的快捷键：<strong>CTRL + SHIFT + /</strong></p></li><li><p>将多行代码进行改变位置</p><p>1。代码 右 移 ：Tab键<br>选中多行代码，按Tab</p><p>2。代码 左 移 ：Shift+Tab键<br>选中多行代码，按Shift+Tab键</p><p>3。代码 上 移 ：Shift+Alt +方向上键<br>选中多行代码，按Shift+Alt+方向上键 ↑</p><p>4。代码 下 移 ：Shift+Alt +方向下键<br>选中多行代码，按Shift+Alt+方向下键↓</p></li><li><p>导包：Alt + enter</p></li><li><p>换行：shift + enter</p></li></ul><h1 id="eclipse-快捷键"><a href="#eclipse-快捷键" class="headerlink" title="eclipse 快捷键"></a>eclipse 快捷键</h1><ul><li><p>创建 setter、getter、构造函数等：<strong>SHIFT + ALT + S</strong></p></li><li><p>格式化：<strong>ctrl + shift + f</strong></p></li><li><p>关闭Window： Ctrl+W</p></li><li><p>删除行： <strong>Ctrl+D</strong></p></li><li><p>上下移动代码行： <strong>Alt+↑,↓</strong></p></li><li><p>Debug单步StepOver：F6</p><p>Debug进入方法StepInto： F5</p><p>Debug步出方法StepReturn/StepOut： F7</p><p>Debug继续到下一断点Resume： F8</p><p>Debug查看语句执行结果： 选中后Ctrl+Shift+I</p></li><li><p>添加类的 import 导入：ctrl + shift + m</p></li></ul>]]></content>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;Intellij-idea-快捷键&quot;&gt;&lt;a href=&quot;#Intellij-idea-快捷键&quot; class=&quot;headerlink&quot; title=&quot;Intellij idea 快捷键&quot;&gt;&lt;/a&gt;Intellij idea 快捷键&lt;/h1&gt;</summary>
+    
+    
+    
+    <category term="web" scheme="http://example.com/categories/web/"/>
+    
+    
+    <category term="工具" scheme="http://example.com/tags/%E5%B7%A5%E5%85%B7/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
