@@ -11,15 +11,6 @@
   </url>
   
   <url>
-    <loc>http://example.com/2022/02/17/hello-world/</loc>
-    
-    <lastmod>2022-02-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://example.com/2022/03/23/Intellij%20idea%20%E5%BF%AB%E6%8D%B7%E9%94%AE/</loc>
     
     <lastmod>2022-02-17</lastmod>
