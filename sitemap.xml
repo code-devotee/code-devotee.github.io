@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2022/03/23/IOC%E5%AE%B9%E5%99%A8/</loc>
+    <loc>https://code-devotee.github.io/2022/03/23/IOC%E5%AE%B9%E5%99%A8/</loc>
     
     <lastmod>2022-02-18</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/index.html</loc>
+    <loc>https://code-devotee.github.io/tags/index.html</loc>
     
     <lastmod>2022-02-18</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/index.html</loc>
+    <loc>https://code-devotee.github.io/categories/index.html</loc>
     
     <lastmod>2022-02-18</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2022/03/23/Io%20%E6%B5%81/</loc>
+    <loc>https://code-devotee.github.io/2022/03/23/Io%20%E6%B5%81/</loc>
     
     <lastmod>2022-02-17</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2022/03/23/Intellij%20idea%20%E5%BF%AB%E6%8D%B7%E9%94%AE/</loc>
+    <loc>https://code-devotee.github.io/2022/03/23/Intellij%20idea%20%E5%BF%AB%E6%8D%B7%E9%94%AE/</loc>
     
     <lastmod>2022-02-17</lastmod>
     
@@ -48,23 +48,23 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
-    <lastmod>2022-02-18</lastmod>
+    <loc>https://code-devotee.github.io/</loc>
+    <lastmod>2022-02-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>http://example.com/tags/%E5%B7%A5%E5%85%B7/</loc>
-    <lastmod>2022-02-18</lastmod>
+    <loc>https://code-devotee.github.io/tags/%E5%B7%A5%E5%85%B7/</loc>
+    <lastmod>2022-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/sprig/</loc>
-    <lastmod>2022-02-18</lastmod>
+    <loc>https://code-devotee.github.io/tags/sprig/</loc>
+    <lastmod>2022-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -72,15 +72,15 @@
 
   
   <url>
-    <loc>http://example.com/categories/%E5%90%8E%E7%AB%AF/</loc>
-    <lastmod>2022-02-18</lastmod>
+    <loc>https://code-devotee.github.io/categories/%E5%90%8E%E7%AB%AF/</loc>
+    <lastmod>2022-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/categories/web/</loc>
-    <lastmod>2022-02-18</lastmod>
+    <loc>https://code-devotee.github.io/categories/web/</loc>
+    <lastmod>2022-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

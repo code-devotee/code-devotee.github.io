@@ -3,14 +3,14 @@
   <title>Hexo</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://code-devotee.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://code-devotee.github.io/"/>
   <updated>2022-02-17T15:46:45.201Z</updated>
-  <id>http://example.com/</id>
+  <id>https://code-devotee.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Andy</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Intellij idea 快捷键</title>
-    <link href="http://example.com/2022/03/23/Intellij%20idea%20%E5%BF%AB%E6%8D%B7%E9%94%AE/"/>
-    <id>http://example.com/2022/03/23/Intellij%20idea%20%E5%BF%AB%E6%8D%B7%E9%94%AE/</id>
+    <link href="https://code-devotee.github.io/2022/03/23/Intellij%20idea%20%E5%BF%AB%E6%8D%B7%E9%94%AE/"/>
+    <id>https://code-devotee.github.io/2022/03/23/Intellij%20idea%20%E5%BF%AB%E6%8D%B7%E9%94%AE/</id>
     <published>2022-03-23T07:13:47.000Z</published>
     <updated>2022-02-17T15:46:45.201Z</updated>
     
@@ -30,17 +30,17 @@
     
     
     
-    <category term="web" scheme="http://example.com/categories/web/"/>
+    <category term="web" scheme="https://code-devotee.github.io/categories/web/"/>
     
     
-    <category term="工具" scheme="http://example.com/tags/%E5%B7%A5%E5%85%B7/"/>
+    <category term="工具" scheme="https://code-devotee.github.io/tags/%E5%B7%A5%E5%85%B7/"/>
     
   </entry>
   
   <entry>
     <title>I/o 流</title>
-    <link href="http://example.com/2022/03/23/Io%20%E6%B5%81/"/>
-    <id>http://example.com/2022/03/23/Io%20%E6%B5%81/</id>
+    <link href="https://code-devotee.github.io/2022/03/23/Io%20%E6%B5%81/"/>
+    <id>https://code-devotee.github.io/2022/03/23/Io%20%E6%B5%81/</id>
     <published>2022-03-23T07:13:47.000Z</published>
     <updated>2022-02-17T16:32:55.751Z</updated>
     
@@ -51,17 +51,17 @@
     
     
     
-    <category term="web" scheme="http://example.com/categories/web/"/>
+    <category term="web" scheme="https://code-devotee.github.io/categories/web/"/>
     
     
-    <category term="工具" scheme="http://example.com/tags/%E5%B7%A5%E5%85%B7/"/>
+    <category term="工具" scheme="https://code-devotee.github.io/tags/%E5%B7%A5%E5%85%B7/"/>
     
   </entry>
   
   <entry>
     <title>IOC容器</title>
-    <link href="http://example.com/2022/03/23/IOC%E5%AE%B9%E5%99%A8/"/>
-    <id>http://example.com/2022/03/23/IOC%E5%AE%B9%E5%99%A8/</id>
+    <link href="https://code-devotee.github.io/2022/03/23/IOC%E5%AE%B9%E5%99%A8/"/>
+    <id>https://code-devotee.github.io/2022/03/23/IOC%E5%AE%B9%E5%99%A8/</id>
     <published>2022-03-23T07:13:47.000Z</published>
     <updated>2022-02-18T00:47:44.730Z</updated>
     
@@ -73,10 +73,10 @@
     
     
     
-    <category term="后端" scheme="http://example.com/categories/%E5%90%8E%E7%AB%AF/"/>
+    <category term="后端" scheme="https://code-devotee.github.io/categories/%E5%90%8E%E7%AB%AF/"/>
     
     
-    <category term="sprig" scheme="http://example.com/tags/sprig/"/>
+    <category term="sprig" scheme="https://code-devotee.github.io/tags/sprig/"/>
     
   </entry>
   
